@@ -3,3 +3,4 @@ supabase
 qrcode
 opencv-python
 numpy
+cv2 
